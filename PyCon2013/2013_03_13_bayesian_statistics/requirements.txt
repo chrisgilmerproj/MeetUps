@@ -1,4 +1,4 @@
-ipython==0.13.1
+ipython==7.16.3
 matplotlib==1.2.0
 numpy==1.7.0
 pyzmq==13.0.0
