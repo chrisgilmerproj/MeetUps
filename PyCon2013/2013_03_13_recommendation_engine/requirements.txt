@@ -2,7 +2,7 @@ Cython==0.18
 ipython==0.13.1
 matplotlib==1.2.0
 numexpr==2.0.1
-numpy==1.7.0
+numpy==1.21.0
 pandas==0.10.1
 python-dateutil==2.1
 pytz==2012j
